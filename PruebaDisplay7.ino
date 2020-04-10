@@ -50,12 +50,3 @@ void lightSegments(int number) {
     digitalWrite(pins[i], bit);
   }
 }
-
-
-
-
-0001000, //a
-0000110, //e
-1001111, //i
-1000000, //o
-1000001//u
